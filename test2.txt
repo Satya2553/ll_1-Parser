@@ -1,0 +1,5 @@
+S'->S
+S->xYzS
+S->a
+Y->xYz
+Y->y
